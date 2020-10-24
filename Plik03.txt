@@ -1,2 +1,3 @@
 Zmiana07b
 Dodano asystent pomocy
+Uproszczenie interfejsu graficznego
