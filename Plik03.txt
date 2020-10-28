@@ -1,5 +1,7 @@
 Zmiana07b
 Zmiana09
+Zmiana10a
+Zmiana10 nowa
 naprawa błędów -hotFix-001
 oraz
 Dodano asystent pomocy
