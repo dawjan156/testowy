@@ -3,6 +3,7 @@ Zmiana09
 Zmiana10a
 Zmiana10 nowa
 Zmiana10
+Zmiana11
 naprawa błędów -hotFix-001
 oraz
 Dodano asystent pomocy
